@@ -1,1 +1,2 @@
-app in py
+import streamlit
+streamlit.tittle('Hi Thomas')
